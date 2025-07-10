@@ -1,5 +1,5 @@
 {
-    "name": "Silas Hansen Home Assistant Addons",
-    "url": "https://github.com/silashansen/hass_addons",
-    "maintainer": "Silas Hansen <silashansen@gmail.com>"
+    "name": "SAIL fork of Silas Hansen Home Assistant Addons",
+    "url": "https://github.com/SAIL-Labs/hass_addons",
+    "maintainer": "Chris Betters <chris@chrisbetters.com>"
 }
