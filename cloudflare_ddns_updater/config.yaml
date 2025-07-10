@@ -19,5 +19,3 @@ schema:
     - zone: str
       token: str
       domains: str
-
-network_mode: host
