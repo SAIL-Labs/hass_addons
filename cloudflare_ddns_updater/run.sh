@@ -17,7 +17,7 @@ echo "$DDCLIENT_CONFIG" | while IFS= read -r line; do
     # Append configuration section for this entry
     cat >> "$CONFIG" << EOL
 protocol=cloudflare
-use=if, if=eth0
+use=if, if=end0
 zone=${zone}
 ttl=1
 login=token
